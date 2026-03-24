@@ -9,7 +9,7 @@ public class Main{
     }
 
     public void Init(){
-        std::cout << "Initializing!";
+        std::cout << "Initializing?";
     }
 
     public void Run(){
